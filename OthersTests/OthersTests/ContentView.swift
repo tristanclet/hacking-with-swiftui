@@ -26,7 +26,7 @@ struct randomCardGuy: View {
             Spacer()
             Text(name)
             Spacer()
-            Text("\(age) ans")
+            Text("\(age) years")
             Spacer()
         }
     }
