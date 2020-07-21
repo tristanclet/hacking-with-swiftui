@@ -8,8 +8,6 @@
 
 import SwiftUI
 
-import SwiftUI
-
 struct ContentView: View {
     @State private var checkAmount: String = ""
     @State private var numberOfPeople: String = ""
