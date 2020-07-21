@@ -19,7 +19,7 @@ struct ContentView: View {
             guy(name: names[row*self.colsCount+col], age: ages[row*self.colsCount+col])
         }
     }
-}
+} 
 
 
 struct GridStack<Content: View>: View {
